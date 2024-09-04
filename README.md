@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently study on a school in indonesia<br>👯 I’m looking to collaborate on discord<br>🤝 I’m looking for help with website<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently study on a school in indonesia<br>👯 I’m looking to collaborate on discord<br>🤝 I’m looking for help with website<br>🌱 I’m currently learning React Native<br>💬 Ask me about anything<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
