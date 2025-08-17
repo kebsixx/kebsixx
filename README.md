@@ -27,6 +27,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kebsixx&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kebsixx&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rhqugh72drbzad2mqq22sxvl7a)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
