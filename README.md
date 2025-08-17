@@ -1,6 +1,13 @@
 # 💫 About Me:
 📖 I'm currently studying at a school in Indonesia.<br>👯 I'm looking to collaborate on Discord<br>🤝 I'd like to help with creating a Website<br>⚛️ I'm in the process of learning React Native<br>💬 Ask me about anything<br>⚡ Fun Fact: I am a Javascript Team
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kebsixx/kebsixx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kebsixx/kebsixx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kebsixx/kebsixx/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🌐 Socials:
 <div align="left">
